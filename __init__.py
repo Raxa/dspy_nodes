@@ -18,7 +18,7 @@ from .nodes.string_reverser import *
 from .nodes.accepted_examples_viewer import *
 from .nodes.dataset_reader import *
 from .nodes.string_splitter import *
-from .nodes.string_list_viewer import *
+#from .nodes.string_list_viewer import *
 
 # from .nodes.show_text import *
 
